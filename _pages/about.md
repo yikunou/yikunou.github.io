@@ -13,16 +13,17 @@ redirect_from:
 
 Yikun now is an M.S. student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University, SZU](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2019-2022*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm) in Intelligent Management & Cross Innovation Team led by [Prof. Ben Niu](https://ma.szu.edu.cn/szll1/axx/glkxx/nb.htm). Before that, Yikun earned her B.S. degree from [Southwest University of Science and Technology, SWUST](http://www.english.swust.edu.cn/) (*E-commerce, 2015-2019*).
 
-Yikun has studied widely different subjects such as *Swarm Intelligence, Information Systems and Electronic Commerce, Advanced Statistics, Advanced Operations Research, Management Research Methods, and Advanced Economics Theory*. She has also published papers at international conferences and has a journal paper in the final round of review. (*<u>International Journal of Intelligent Systems, JCR Q1, IF 8.993</u>*).
+Yikun has studied widely different subjects such as *Swarm Intelligence, Information Systems and Electronic Commerce, Advanced Statistics, Advanced Operations Research, Management Research Methods, and Advanced Economics Theory*. One of her long papers has been accepted by *<u>International Journal of Intelligent Systems, （JCR Q1, IF 8.993）</u>* and ***6 conference papers*** were indexed by ***EI***
 
 Yikun’s main research interest includes but is not limited to **Intelligent Computing**, **Feature Selection for ML**, **Semi-supervised Learning** and **Customer Relationship Management**. Starting in 2019, Yikun has been involved in research assistant duties. She has participated in monograph compilation, project application, conference organizing, and other affairs.
 
 **Contact me via**:  
-<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Email:  <a href="mailto:yikunou@gmail.com">yikunou@gmail.com</a> <b>or</b> <a href="mailto:ouyikun2019@email.szu.edu.cn">ouyikun2019@email.szu.edu.cn</a></font>
+<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;"><b>Email:</b>  <a href="mailto:yikunou@gmail.com">yikunou@gmail.com</a> <i>or</i> <a href="mailto:ouyikun2019@email.szu.edu.cn">ouyikun2019@email.szu.edu.cn</a></font>
 
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[11/2022]</b> A long paper was accepted by <b>high-level artificial intelligence journal <u><i>International Journal of Intelligent Systems</i></u>, (JCR Q1, IF 8.993)</b>. The online version and code will release soon!!!<br>
   <b>[05/2021]</b> Work on "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification" was accepted by <b>DMBD 2021</b>.<br>
   <b>[04/2021]</b> Work on "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization" was accepted by <b>ICSI 2021</b>.<br>
   <b>[04/2021]</b> Work on "An Empirical Study of Social E-commerce Platform on Users’ Intention: Take WeChat E-commerce Group as an Example" was accepted by <i><b>ICEME 2021</b></i>.<br>

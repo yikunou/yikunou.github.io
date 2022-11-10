@@ -50,7 +50,7 @@ Publications
 
 ### Journal Papers:
 
-[1] Hong Wang (*Advisor*), ***<u>Yikun Ou</u>\****, Yixin Wang, Tan LiJing, Ben Niu. "Imbalanced Customer Classification based on Semisupervised Bacterial Heuristic Feature Selection." *<u>International Journal of Intelligent Systems</u>*. (***JCR Q1 2021 IF 8.993***) (Under the final round of review).
+[1] Hong Wang (*Advisor*), ***<u>Yikun Ou</u>\****, Yixin Wang, Tan LiJing, Ben Niu. "Imbalanced Customer Classification based on Semisupervised Bacterial Heuristic Feature Selection." *<u>International Journal of Intelligent Systems</u>*. (***JCR Q1 2021 IF 8.993***) (**Accepted**).
 
 ### Conference Papers:
 

@@ -26,7 +26,7 @@ author_profile: true
       <br>
       Hong Wang (Advisor), <u><b><i>Yikun Ou</i></b></u>, Yixin Wang, Tongtong Xing, Tan LiJing*.
       <br>
-      <i>In <em><b>International Journal of Intelligent Systems</b></em> (<b>JCR Q1, 2021 IF 8.993</b>)</i> (Under the final round of review). 
+      <i>In <em><b>International Journal of Intelligent Systems</b></em> (<b>JCR Q1, 2021 IF 8.993</b>)</i>. <b>(Accepted)</b>
       <br>
       [<a href="https://onlinelibrary.wiley.com/journal/1098111x">Forthcoming</a>]
     </td>
