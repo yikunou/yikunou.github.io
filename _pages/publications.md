@@ -29,6 +29,7 @@ author_profile: true
       <i>In <em><b>International Journal of Intelligent Systems</b></em> (<b>JCR Q1, 2021 IF 8.993</b>)</i>. <b>(Accepted)</b>
       <br>
       [<a href="https://onlinelibrary.wiley.com/journal/1098111x">Forthcoming</a>]
+      [<a href="\../files/A Semi-supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels.pdf">Preview PDF</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/coming soon.png">
